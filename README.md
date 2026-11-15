@@ -9,7 +9,7 @@ Official Bruno site: https://www.usebruno.com/
 - Open Bruno
 - Click "Open Collection"
 - Select this folder:
-  `/home/lenovo/Documents/bruno/StudentXChange`
+  `/home/**User**/Documents/bruno/StudentXChange`
 
 ## 2) Set the environment
 The collection contains an environment file:
